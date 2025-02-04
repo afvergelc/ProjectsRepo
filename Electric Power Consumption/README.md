@@ -70,7 +70,7 @@ Facilitan la exploración inicial y la identificación de patrones y distribucio
 
 
 ## Contenido del Proyecto
-- `dataset/`: Datos utilizados para el análisis.
+- `dataset/`: Datos utilizados para el análisis. https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 - `notebooks/`: Cuadernos de Jupyter con el análisis y visualizaciones.
 
 ## Uso
@@ -156,7 +156,7 @@ Visualization libraries used for exploratory analysis and data representation at
 They facilitate initial exploration and pattern identification in the data.
 
 ## Project Content
-- `dataset/`: Data used for the analysis.
+- `dataset/`: Data used for the analysis. https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 - `notebooks/`: Jupyter notebooks with analysis and visualizations.
 
 ## Usage
